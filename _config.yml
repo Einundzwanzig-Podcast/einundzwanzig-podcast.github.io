@@ -1,15 +1,15 @@
 # Site/SEO settings
-email: dergigi@pm.me
+email: einundzwanzigpodcast@protonmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-name: Gigi
+name: Einundzwanzig
 title: Einundzwanzig - Der Bitcoin Podcast
 description: >
-  Thoughts about Bitcoin and other things.
-url: https://dergigi.com
-twitter_username: dergigi
+  Der Bitcoin Podcast. Bitcoin, und sonst nichts.
+url: https://einundzwanzig-podcast.github.io/
+twitter_username: _einundzwanzig_
 default_img: /assets/images/einundzwanzig-square.png
 social:
   - name: podcast
