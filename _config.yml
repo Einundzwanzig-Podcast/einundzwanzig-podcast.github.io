@@ -14,13 +14,22 @@ default_img: /assets/images/einundzwanzig-square.png
 social:
   - name: twitter
     url: https://twitter.com/_einundzwanzig_
-  - name: podcast 
+  - name: podcast
     url: https://anchor.fm/einundzwanzig
 
-# Author settings
-author:
+hosts:
+  - name: Markus
+    url: https://twitter.com/allgaeucrypto
+    image: /assets/images/markus.jpg
   - name: Gigi
-    url: https://dergigi.com/contact
+    url: https://twitter.com/dergigi
+    image: /assets/images/gigi.png
+  - name: Fabio
+    url: https://twitter.com/fabthefoxx
+    image: /assets/images/fabio.jpg
+  - name: Daniel
+    url: https://twitter.com/danielwingen
+    image: /assets/images/daniel.jpg
 
 # Build settings
 markdown: kramdown
