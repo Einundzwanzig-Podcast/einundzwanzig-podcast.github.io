@@ -14,7 +14,7 @@ default_img: /assets/images/einundzwanzig-square.png
 social:
   - name: twitter
     url: https://twitter.com/_einundzwanzig_
-  - name: anchor
+  - name: podcast 
     url: https://anchor.fm/einundzwanzig
 
 # Author settings
