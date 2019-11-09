@@ -12,15 +12,13 @@ url: https://dergigi.com
 twitter_username: dergigi
 default_img: /assets/images/einundzwanzig-square.png
 social:
-  - name: twitter
-    url: https://twitter.com/_einundzwanzig_
   - name: podcast
     url: https://anchor.fm/einundzwanzig
 
 hosts:
   - name: Markus
     url: https://twitter.com/allgaeucrypto
-    image: /assets/images/markus.jpg
+    image: /assets/images/markus.png
   - name: Gigi
     url: https://twitter.com/dergigi
     image: /assets/images/gigi.png

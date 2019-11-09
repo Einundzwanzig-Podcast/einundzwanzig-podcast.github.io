@@ -1,11 +1,9 @@
 <article class="posts__post">
     {% if host.image %}
       <figure class="posts__img">
+        <a href="{{ host.url }}">
         <img src="{{ host.image }}" data-aos="fade-in" itemprop="image"/>
+        </a>
       </figure>
     {% endif %}
-    <div>
-      <h2 class="posts__text">
-        <strong itemprop="name">{{ host.name }}</strong>
-    </div>
 </article>
