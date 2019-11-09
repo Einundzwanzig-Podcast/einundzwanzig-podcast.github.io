@@ -1,0 +1,45 @@
+# Site/SEO settings
+email: dergigi@pm.me
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Gigi
+title: Einundzwanzig - Der Bitcoin Podcast
+description: >
+  Thoughts about Bitcoin and other things.
+url: https://dergigi.com
+twitter_username: dergigi
+default_img: /assets/images/einundzwanzig-square.png
+social:
+  - name: twitter
+    url: https://twitter.com/_einundzwanzig_
+  - name: anchor
+    url: https://anchor.fm/einundzwanzig
+
+# Author settings
+author:
+  - name: Gigi
+    url: https://dergigi.com/contact
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - env
+  - scripts
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
