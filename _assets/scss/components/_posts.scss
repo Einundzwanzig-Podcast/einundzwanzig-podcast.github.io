@@ -32,9 +32,9 @@
     }
 
     &[data-columns]:before {
-      @media screen and (max-width: $mq-med) {
-        content: '1 .column.posts-full';
-      }
+      // @media screen and (max-width: $mq-med) {
+      //   content: '1 .column.posts-full';
+      // }
 
       @media screen and (min-width: $mq-med) and (max-width: $mq-xlarge) {
         content: '2 .column.posts-half';
