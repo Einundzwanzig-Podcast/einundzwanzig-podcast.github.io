@@ -41,7 +41,7 @@
       }
 
       @media screen and (min-width: $mq-xlarge) {
-        content: '4 .column.posts-quarter';
+        content: '5 .column.posts-fifth';
       }
     }
 
@@ -176,4 +176,8 @@
 
 .posts-quarter {
   width: 1 / 4 * 100%;
+}
+
+.posts-fifth {
+  width: 1 / 5 * 100%;
 }
