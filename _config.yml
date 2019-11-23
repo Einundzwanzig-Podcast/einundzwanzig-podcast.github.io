@@ -25,6 +25,9 @@ hosts:
   - name: Fabio
     url: https://twitter.com/fabthefoxx
     image: /assets/images/fabio.jpg
+  - name: Dennis
+    url: https://twitter.com/dennisreimann
+    image: /assets/images/dennis.jpg
   - name: Daniel
     url: https://twitter.com/danielwingen
     image: /assets/images/daniel.jpg
