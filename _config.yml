@@ -17,7 +17,7 @@ social:
 
 hosts:
   - name: Markus
-    url: https://twitter.com/allgaeucrypto
+    url: https://twitter.com/MarkusTurm
     image: /assets/images/markus.png
   - name: Gigi
     url: https://twitter.com/dergigi
