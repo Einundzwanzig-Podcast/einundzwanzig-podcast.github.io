@@ -43,7 +43,7 @@
     "gulp-stylelint": "^9.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "s3-website": "^3.3.0",
     "stylelint": "^10.1.0",
     "vinyl-buffer": "^1.0.1",
